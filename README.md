@@ -1,2 +1,2 @@
-# Flapikol
+# Flapikoll
 Exam game in unity
